@@ -1,0 +1,7 @@
+heart/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+data/*.csv
